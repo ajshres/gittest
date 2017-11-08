@@ -1,4 +1,2 @@
-Todo for 8th November
-- learn git
-- learn html
-- learn css
+Todos for 9th November
+- learn javascript
